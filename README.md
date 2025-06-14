@@ -18,7 +18,8 @@ This project uses a Convolutional Neural Network (CNN) to classify medical image
 ## 🚀 How to Run
 **Install Dependencies**
 
-Use pip to install required packages:
+Use pip to install required packages: 
+
 pip install tensorflow keras matplotlib numpy opencv-python
 
 **Create a Virtual Environment (Recommended)**
