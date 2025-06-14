@@ -29,7 +29,7 @@ To isolate your dependencies:
 
 **📊 Model Performance (Example)**
 Metric	Value
-Accuracy	96.2%
+Accuracy	86.99%
 Loss	0.12
 
 📌 Add your actual results after training.
